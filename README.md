@@ -1,7 +1,36 @@
-Hi I am Nathan Pacey.
-- I’m interested in Theoretical Physics, Computing, Mathematics, Robotics and Mechanical Design. And on the weekends I love to Wakeboard and play the Cello!
-- I’m currently learning as much as I can. I recently graduated from Queen's University where I studied Engineering Physics and Computing. Now I am pursuing a Master's Degree at EPFL in Quantum Science and Engineering. 
-- I’m looking to collaborate with companies and people that are working on projects that will help the world one idea at a time.
-- How to reach me, by email npacey01@gmail.com.
+Hey, I’m Nathan Pacey 👋
+🧠 What I’m Into
 
-- I would like to continue to work in the engineering field and create a design that matters. So if you are interested in talking to someone about the latest physics or are looking for an employee let me know!
+Quantum theory → quantum computing → actually solving real-world problems.
+
+I’m curious about everything from finance, cosmology, and AI/ML to application development — basically, if it’s a (NP) hard problem, I’m interested.
+
+I like practical, multi-disciplinary problem solving — physics, computing, math, whatever gets the job done.
+
+🔬 What I’m Working On
+
+Researching surface codes and stochastic noise at EPFL / CERN.
+
+Exploring quantum + optomechanical systems at IQC, University of Waterloo.
+
+TL;DR: trying to make quantum computers slightly less chaotic, one error model at a time.
+
+🎯 Goal
+
+Build a real working quantum computer… or at least solve the problems stopping us from doing so — on paper :|
+
+If I can make a real impact on quantum computing, I’ll consider the years of glorified linear algebra well spent.
+
+🛠️ Background
+
+Recovering Engineering Physicist and former Roboticist — so yes, I still like to build things in the real world too.
+
+🌲 Outside of Research
+
+I ski, hike, and travel to remind myself there’s a world beyond Dirac notation.
+
+📬 Reach Me
+
+Email: npacey01@gmail.com
+
+Happy to chat about quantum computing, research, or just compare favorite hiking spots.
