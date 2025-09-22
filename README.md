@@ -8,7 +8,6 @@ I’m curious about everything from **finance, cosmology, and AI/ML** to **appli
 
 I like **practical, multi-disciplinary problem solving** — physics, computing, math, whatever gets the job done.  
 
----
 
 ## 🔬 What I’m Working On  
 
@@ -17,7 +16,7 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 
 **TL;DR:** trying to make quantum computers slightly less chaotic, one error model at a time.  
 
----
+
 
 ## 🎯 Goal  
 
@@ -25,19 +24,18 @@ Build a real working quantum computer… or at least solve the problems stopping
 
 If I can make a real impact on quantum computing, I’ll consider the years of glorified linear algebra well spent.  
 
----
+
 
 ## 🛠️ Background  
 
 Recovering **Engineering Physicist** and former **Roboticist** — so yes, I still like to build things in the real world too.  
 
----
+
 
 ## 🌲 Outside of Research  
 
 I ski, hike, and travel to remind myself there’s a world beyond Dirac notation.  
 
----
 
 ## 📬 Reach Me  
 
