@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nathan Pacey  
 
-## 🧠 What I’m Into  
+### 🧠 What I’m Into  
 
 Quantum theory → quantum computing → actually solving real-world problems.  
 
@@ -9,7 +9,7 @@ I’m curious about everything from **finance, cosmology, and AI/ML** to **appli
 I like **practical, multi-disciplinary problem solving** — physics, computing, math, whatever gets the job done.  
 
 
-## 🔬 What I’m Working On  
+### 🔬 What I’m Working On  
 
 - Researching **surface codes** and **stochastic noise** at **EPFL / CERN**  
 - Exploring **quantum + optomechanical systems** at **IQC, University of Waterloo**  
@@ -18,7 +18,7 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 
 
 
-## 🎯 Goal  
+### 🎯 Goal  
 
 Build a real working quantum computer… or at least solve the problems stopping us from doing so — on paper :|  
 
@@ -26,18 +26,18 @@ If I can make a real impact on quantum computing, I’ll consider the years of g
 
 
 
-## 🛠️ Background  
+### 🛠️ Background  
 
 Recovering **Engineering Physicist** and former **Roboticist** — so yes, I still like to build things in the real world too.  
 
 
 
-## 🌲 Outside of Research  
+### 🌲 Outside of Research  
 
 I ski, hike, and travel to remind myself there’s a world beyond Dirac notation.  
 
 
-## 📬 Reach Me  
+### 📬 Reach Me  
 
 📧 **Email:** npacey01@gmail.com  
 
