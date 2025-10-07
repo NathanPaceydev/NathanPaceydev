@@ -12,7 +12,7 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 ### What I’m Working On  
 
 - Researching **surface codes** and **stochastic noise** at **EPFL / CERN**  
-- Exploring **quantum + optomechanical systems** at **IQC, University of Waterloo**  
+- Exploring **quantum + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
 
 **TL;DR:** trying to make quantum computers slightly less chaotic, one error model at a time.  
 
@@ -41,4 +41,4 @@ I ski, hike, and travel to remind myself there’s a world beyond Dirac notation
 
 📧 **Email:** npacey01@gmail.com  
 
-Happy to chat about quantum computing, research, or just compare favorite hiking spots.  
+Happy to chat about quantum computing, research, or just compare favourite hiking spots.  
