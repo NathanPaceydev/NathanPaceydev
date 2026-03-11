@@ -11,6 +11,7 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 
 ### What I’m Working On  
 
+- **QML** Applications at **AXA** Switzerland 
 - Researching **surface codes** and **stochastic noise** at **EPFL / CERN**  
 - Exploring **quantum + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
 
