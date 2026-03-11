@@ -13,7 +13,7 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 
 - **QML** Applications at **AXA** Switzerland 
 - Researching **surface codes** and **stochastic noise** at **EPFL / CERN**  
-- Exploring **quantum + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
+- Exploring **quantum theory + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
 
 **TL;DR:** trying to make quantum computers slightly less chaotic, one error model at a time.  
 
