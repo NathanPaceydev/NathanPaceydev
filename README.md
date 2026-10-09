@@ -9,10 +9,10 @@ I like **practical, multi-disciplinary problem solving** — physics, computing,
 
 
 ### What I’m Working On  
-
+- Developing quantum error correction algorithms at **ZuriQ**
 - **QML** Applications at **AXA** Switzerland 
 - Researching **surface codes** and **stochastic noise** at **EPFL / CERN**  
-- Exploring **quantum theory + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
+-  **Quantum theory + optomechanical systems** at **Institute for Quantum Computing (IQC), University of Waterloo**  
 
 **TL;DR:** trying to make quantum computers slightly less chaotic, one error model at a time.  
 
